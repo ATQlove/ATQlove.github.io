@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - My First Hugo Site</title>
+        <link>https://atqlove.github.io/posts/</link>
+        <description>All Posts | My First Hugo Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>atqlove@gmail (ATQlove)</managingEditor>
+            <webMaster>atqlove@gmail (ATQlove)</webMaster><lastBuildDate>Mon, 10 Jun 2024 11:58:18 &#43;0800</lastBuildDate><atom:link href="https://atqlove.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>https://atqlove.github.io/first_post/</link>
+    <pubDate>Mon, 10 Jun 2024 11:58:18 &#43;0800</pubDate>
+    <author>ATQlove</author>
+    <guid>https://atqlove.github.io/first_post/</guid>
+    <description><![CDATA[##First_post This is a test of my first site.]]></description>
+</item>
+</channel>
+</rss>
